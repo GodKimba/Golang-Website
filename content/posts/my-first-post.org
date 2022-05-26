@@ -7,7 +7,7 @@ categories: ["tech"]
 ---
 
 * Snippet
-#+begin_example
+#+begin_lang options
 func main() {
     count := 10
     increment(10)
@@ -17,8 +17,7 @@ func main() {
 func increment(x int) {
     count + 1
 }
-
-#+end_example
+#+end_lang
 
 
 * This table Refers to a

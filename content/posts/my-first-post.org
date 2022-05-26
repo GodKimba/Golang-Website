@@ -1,0 +1,23 @@
+---
+title: "My First Post"
+date: 2022-05-25T10:09:42-03:00
+draft: false
+tags: ["html", "css"]
+categories: ["tech"]
+---
+
+* Trying this header out.
+** This one too.
+
+- Now an unorganized list.
+- And now, an organized one
+* My todo list [1/2] [50%]
+- [-] Buy eggs
+- [X] Buy milk
+
+* Creating a table
+| One                               | Two                   | Three |
+|-----------------------------------+-----------------------+-------|
+| Need to work on my working memory | Today was a great day |       |
+|                                   |                       |       |
+|                                   |                       |       |

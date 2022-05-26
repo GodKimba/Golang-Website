@@ -2,22 +2,28 @@
 title: "My First Post"
 date: 2022-05-25T10:09:42-03:00
 draft: false
-tags: ["html", "css"]
+tags: ["golang", "CS"]
 categories: ["tech"]
 ---
 
-* Trying this header out.
-** This one too.
+* Snippet
+#+begin_example
+func main() {
+    count := 10
+    increment(10)
+    fmt.Println(count)
+}
 
-- Now an unorganized list.
-- And now, an organized one
-* My todo list [1/2] [50%]
-- [-] Buy eggs
-- [X] Buy milk
+func increment(x int) {
+    count + 1
+}
 
-* Creating a table
-| One                               | Two                   | Three |
-|-----------------------------------+-----------------------+-------|
-| Need to work on my working memory | Today was a great day |       |
-|                                   |                       |       |
-|                                   |                       |       |
+#+end_example
+
+
+* This table Refers to a
+|-----------------+-----------------+--------------|
+| main            | count(variable) | Active Frame |
+|-----------------+-----------------+--------------|
+| func(increment) |                 | Active Frame |
+|-----------------+-----------------+--------------|

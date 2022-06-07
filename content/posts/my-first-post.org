@@ -4,10 +4,11 @@ date: 2022-05-25T10:09:42-03:00
 draft: false
 tags: ["golang", "CS"]
 categories: ["tech"]
+ShowBreadCrumbs: true
+ShowReadingTime: true
 ---
 
-* Snippet
-#+begin_lang options
+#+begin_src golang
 func main() {
     count := 10
     increment(10)
@@ -17,7 +18,8 @@ func main() {
 func increment(x int) {
     count + 1
 }
-#+end_lang
+#+end_src
+
 
 
 * This table Refers to a

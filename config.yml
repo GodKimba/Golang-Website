@@ -1,6 +1,6 @@
 baseURL: "https://rafa-blog.netlify.app/"
 languageCode: en-us
-title: Rafa's Personal Blog
+title: I'm not that crazy
 theme: "PaperMod"
 
 menu:
@@ -19,3 +19,36 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+params:
+    homeInfoParams:
+        Title: Hi there, welcome to my world
+        Content: "I'm a phycologist in formation at the PUC-RIO
+        university that has a LOT of unusual interests, pleasured to meet you."
+
+    socialIcons: # optional
+        - name: Github
+          url: "https://github.com/GodKimba"
+
+    assets:
+        disableHLJS: true
+
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: monokai

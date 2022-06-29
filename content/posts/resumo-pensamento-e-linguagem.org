@@ -1,0 +1,56 @@
+---
+title: "Resumo Pensamento E Linguagem"
+date: 2022-06-29T09:31:31-03:00
+draft: false
+tags: ["PUC", "G2"]
+categories: ["Psicologia"]
+ShowBreadCrumbs: true
+ShowReadingTime: true
+---
+
+* Julgamento e Tomada de Decisões
+
+** Julgamento
+- Avaliação da probabilidade de ocorrência de um evento com base em informações incompletas
+- O que importa é a acurácia
+- Faz parte do processo de Decisão
+
+** Tomada de Decisão
+- Escolher uma opção entre várias
+- Julgar caso faltem informações
+- Fatos envolvidos dependem da importância da decisão
+
+** Teorema de Bayes
+- Avaliar as probabilidades de ambas hipóteses antes de obter os dados
+- Levar em conta a frequência de base que um evento ocorre
+
+** Frequência de Mudança de opinião
+- Heurística de Representatividade
+  - Definir que algo pertence a uma categoria por ser típica
+
+- Falácia da Conjunção
+  - Crença equivocada que a combinação de dois eventos é mais provável que um deles isolado.
+
+** Taxas de Base
+- Conhecimento de causa. Informações de frequência de base na vida cotidiana
+- Costumamos utilizar quando nos é vantajosa e vice-versa
+
+- Heurística da Disponibilidade
+  - Frequência de eventos estimada com base no quão fácil/difícil é recuperá-los da memória.
+
+- Heurística de Afeto
+  - Uso das reações emocionais para influenciar julgamentos ou decisões rápidas.
+
+** Áreas do Cérebro Associadas a Tomada de Decisões
+- Amígdala
+  - Como um "freio de segurança"
+
+- Córtex pré-frontal dorsolateral
+  - Planejamento de comportamento;
+
+** Vieses
+- Viés de omissão
+  - Preferencia pela inação frente a uma tomada de decisão arriscada
+
+- Viés do status quo
+  - Preferencia por aceitar o status quo em vez de mudar de decisão
